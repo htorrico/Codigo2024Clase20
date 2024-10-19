@@ -17,6 +17,9 @@ namespace Codigo2024Clase20
         {
             return a + b;
         }
-
+        public int Multiplicar(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
