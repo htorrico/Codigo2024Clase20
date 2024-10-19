@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codigo2024Clase20
 {
-    internal class RomuloTest
+    public class RomuloTest
     {
     }
 }
