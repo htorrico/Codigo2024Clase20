@@ -8,5 +8,13 @@ namespace Codigo2024Clase20
 {
     internal class MarianoTest
     {
+        public int Sumar(int a, int b)
+        {
+            return a + b;
+        }
+        public int Restar(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
