@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Codigo2024Clase20
 {
-    internal class JohnMoron
+    public class JohnMoron
     {
+        public int suma (int a, int b)
+        {
+            return a + b;
+        }
+
+        public int resta(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
