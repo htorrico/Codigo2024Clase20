@@ -16,5 +16,10 @@ namespace Codigo2024Clase20
         {
             return a - b;
         }
+
+        void saludo()
+        {
+            Console.WriteLine("Hola mundo");
+        }
     }
 }
