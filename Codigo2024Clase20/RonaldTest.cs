@@ -25,6 +25,5 @@ namespace Codigo2024Clase20
             return a * b;
         }
 
-    }
-    }
+    }   
 }
