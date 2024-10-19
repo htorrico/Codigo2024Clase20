@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Codigo2024Clase20
 {
-    internal class HugoTest
+    public class HugoTest
     {
+        public int Sumar(int a,int b)
+        {
+            return a + b;
+        }
     }
 }
