@@ -12,5 +12,9 @@ namespace Codigo2024Clase20
         {
             return a + b;
         }
+        public int Restar(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
