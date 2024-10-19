@@ -8,5 +8,14 @@ namespace Codigo2024Clase20
 {
     public class IvanSevilla
     {
+        public int Sumar(int a, int b)
+        {
+            return a + b;
+        }
+
+        public int Restar(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
