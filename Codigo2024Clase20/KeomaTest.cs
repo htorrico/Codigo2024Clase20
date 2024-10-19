@@ -9,5 +9,6 @@ namespace Codigo2024Clase20
     internal class KeomaTest
     {
         public int a;
+        public int b;
     }
 }

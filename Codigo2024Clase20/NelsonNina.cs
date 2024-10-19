@@ -18,5 +18,10 @@ namespace Codigo2024Clase20
 			return x - y;
 		}
 
+		public double Multiplicar(double x, double y)
+		{
+			return x * y;
+		}
+
 	}
 }
