@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Codigo2024Clase20
 {
-    internal class SPairazaman
+    public class SPairazaman
     {
+        public int Sumar(int a, int b)
+        {
+            return a + b;
+        }
+        public int Restar(int a, int b)
+        {
+            return a - b;
+        }
+
+        public int Multiplicar(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
