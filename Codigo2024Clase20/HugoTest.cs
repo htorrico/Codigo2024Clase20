@@ -14,6 +14,9 @@ namespace Codigo2024Clase20
         }
         public int Restar(int a, int b)
         {
+            if (a > b)
+                return 0;
+            else
             return a - b;
         }
 
