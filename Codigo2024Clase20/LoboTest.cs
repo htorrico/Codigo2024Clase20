@@ -13,11 +13,12 @@ namespace Codigo2024Clase20
         {
             //intnto
         }
-        public double sumar(int a, int b) { 
+        public double sumar(int a, int b)
+        {
 
-       
-        return a+b;
-    }
+
+            return a + b;
+        }
         public double restar(int a, int b)
         {
 
@@ -26,4 +27,5 @@ namespace Codigo2024Clase20
 
         }
 
+    }
 }
