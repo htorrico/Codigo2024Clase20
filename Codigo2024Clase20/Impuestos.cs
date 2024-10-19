@@ -17,5 +17,10 @@ namespace Codigo2024Clase20
         {
 
         }
+
+        void Calcular3eraCategoria()
+        {
+
+        }
     }
 }
