@@ -22,7 +22,7 @@ namespace Codigo2024Clase20
         public int Multiplicar(int a, int b)
         {
 
-            return a - b;
+            return a * b;
         }
 
     }
