@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace Codigo2024Clase20
 {
-    public class HugoTest
+    public class LoboTest
     {
-        public int Sumar(int a,int b)
+        public void intento()
         {
-            return a + b;
-        }
-        public int Restar(int a, int b)
-        {
-            return a - b;
+            //intnto
         }
     }
 }
